@@ -2,24 +2,21 @@
 
 ## Phase 1: Foundations (Day 1-20)
 
-### Git, GitHub & GitLab (Day 1-6)
-- Day 1: What is Git — version control basics, installation
-- Day 2: Core Git commands (init, add, commit, status, log)
-- Day 3: Branching & merging (branch, checkout, merge, conflicts)
-- Day 4: GitHub — repos, push/pull, remotes, pull requests
-- Day 5: GitLab — overview, GitLab vs GitHub, CI/CD basics intro
-- Day 6: Git best practices — .gitignore, commit messages, workflows, practice
+### Linux & Command Line (Day 1-8)
+- Day 1-2: Linux basics, file system structure, basic commands
+- Day 3-4: File permissions, users/groups, chmod/chown
+- Day 5-6: Process management, systemctl, services
+- Day 7-8: Bash scripting basics (variables, loops, conditionals)
 
-### Linux & Command Line (Day 7-13)
-- Day 7-8: Linux basics, file system structure, basic commands
-- Day 9-10: File permissions, users/groups, chmod/chown
-- Day 11: Process management, systemctl, services
-- Day 12-13: Bash scripting basics (variables, loops, conditionals)
+### Networking Basics (Day 9-14)
+- Day 9-10: OSI model, TCP/IP basics
+- Day 11-12: DNS, HTTP/HTTPS, ports
+- Day 13-14: SSH, firewalls, basic security concepts
 
-### Networking Basics (Day 14-20)
-- Day 14-15: OSI model, TCP/IP basics
-- Day 16-17: DNS, HTTP/HTTPS, ports
-- Day 18-20: SSH, firewalls, basic security concepts, revision
+### Git & GitHub Advanced (Day 15-20)
+- Day 15-16: Git branching strategies, merge vs rebase
+- Day 17-18: GitHub workflows, pull requests, code review basics
+- Day 19-20: Git hooks, .gitignore best practices, project practice
 
 ## Phase 2: Core DevOps Tools (Day 21-45)
 

@@ -23,7 +23,7 @@ This is my daily learning log as I go from **DevOps basics to job-ready level** 
 
 | Phase | Topics | Days |
 |-------|--------|------|
-| **Phase 1** | Git/GitHub/GitLab, Linux, Networking | Day 1–20 |
+| **Phase 1** | Linux, Networking, Git/GitHub | Day 1–20 |
 | **Phase 2** | Docker, CI/CD (GitHub Actions) | Day 21–45 |
 | **Phase 3** | Kubernetes, AWS Cloud | Day 46–75 |
 | **Phase 4** | Terraform, Monitoring, Capstone Project | Day 76–100 |
@@ -34,7 +34,7 @@ This is my daily learning log as I go from **DevOps basics to job-ready level** 
 
 | Day | Topic | Notes |
 |-----|-------|-------|
-| 01 | What is Git | [Day 1](Phase1-Foundations/Git-GitHub-GitLab/day-01-what-is-git.md) |
+| 01 | Linux Basics | [Day 1](Phase1-Foundations/Linux/day-01-linux-basics.md) |
 
 *(This table will grow every day — I'll add a new row for each day I complete.)*
 
